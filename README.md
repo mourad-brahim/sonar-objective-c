@@ -54,6 +54,9 @@ Binary packages are available in the release section.
 
 ### Release history
 
+### 0.6.4
+- Add compiler warning rule from clang ruleset (Thanks to bkottcamp (https://github.com/bkottcamp))
+
 ### 0.6.3
 - SonarQube 7.0 support
 
